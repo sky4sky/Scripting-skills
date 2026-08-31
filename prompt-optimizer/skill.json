@@ -1,0 +1,9 @@
+{
+  "icon": "sparkles",
+  "color": "systemPurple",
+  "iconImage": null,
+  "remoteResource": {
+    "autoUpdateInterval": 21600,
+    "url": "https://github.com/daymade/claude-code-skills/tree/main/prompt-optimizer"
+  }
+}
