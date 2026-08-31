@@ -1,0 +1,9 @@
+{
+  "icon": "paintpalette.fill",
+  "color": "systemPink",
+  "iconImage": null,
+  "remoteResource": {
+    "autoUpdateInterval": 21600,
+    "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design"
+  }
+}
