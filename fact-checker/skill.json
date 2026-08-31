@@ -1,0 +1,9 @@
+{
+  "icon": "checkmark.seal.fill",
+  "color": "systemGreen",
+  "iconImage": null,
+  "remoteResource": {
+    "autoUpdateInterval": 21600,
+    "url": "https://github.com/daymade/claude-code-skills/tree/main/fact-checker"
+  }
+}
