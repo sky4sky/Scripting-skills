@@ -1,0 +1,9 @@
+{
+  "icon": "pencil.and.outline",
+  "color": "systemIndigo",
+  "iconImage": null,
+  "remoteResource": {
+    "autoUpdateInterval": 21600,
+    "url": "https://github.com/softaworks/agent-toolkit/tree/main/skills/writing-clearly-and-concisely"
+  }
+}
