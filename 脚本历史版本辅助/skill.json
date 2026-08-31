@@ -1,0 +1,9 @@
+{
+  "icon": "clock.arrow.circlepath",
+  "color": "systemBlue",
+  "iconImage": null,
+  "remoteResource": {
+    "autoUpdateInterval": 21600,
+    "url": "https://github.com/vvvvvveng/Scripting-skills/tree/main/脚本历史版本辅助"
+  }
+}
