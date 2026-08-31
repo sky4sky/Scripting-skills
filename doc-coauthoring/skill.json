@@ -1,0 +1,9 @@
+{
+  "icon": "doc.text.fill",
+  "color": "systemBlue",
+  "iconImage": null,
+  "remoteResource": {
+    "autoUpdateInterval": 21600,
+    "url": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring"
+  }
+}
