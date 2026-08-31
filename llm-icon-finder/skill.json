@@ -1,0 +1,9 @@
+{
+  "icon": "photo.fill",
+  "color": "systemTeal",
+  "iconImage": null,
+  "remoteResource": {
+    "autoUpdateInterval": 21600,
+    "url": "https://github.com/daymade/claude-code-skills/tree/main/llm-icon-finder"
+  }
+}
