@@ -1,0 +1,9 @@
+{
+  "icon": "server.rack",
+  "color": "systemGray",
+  "iconImage": null,
+  "remoteResource": {
+    "autoUpdateInterval": 21600,
+    "url": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder"
+  }
+}
