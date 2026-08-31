@@ -1,0 +1,9 @@
+{
+  "icon": "list.clipboard.fill",
+  "color": "systemOrange",
+  "iconImage": null,
+  "remoteResource": {
+    "autoUpdateInterval": 21600,
+    "url": "https://github.com/softaworks/agent-toolkit/tree/main/skills/requirements-clarity"
+  }
+}
